@@ -15,3 +15,5 @@ pom.xml
 /docs
 /out
 /repl
+/public/lotus-test.js
+/public/lotus.js
